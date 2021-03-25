@@ -9,3 +9,8 @@ Create a commands.json file in the home directory with all your commands in json
 {
     "command": "Text",
 }
+
+## Start the bot
+To start the chatbot, you need Node on your PC.
+Open a terminal and type ```node app.js```
+You can also use __pm2__ to run the bot as a background task
